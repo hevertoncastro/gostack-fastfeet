@@ -1,0 +1,15 @@
+{
+  "name": "FastFeet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hevertoncastro/gostack-fastfeet.git",
+  "author": "Heverton Castro <hevertonwebdev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "sucrase": "^3.12.1"
+  }
+}
